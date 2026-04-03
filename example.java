@@ -1,4 +1,4 @@
-public class SumExample {
+public class example {
     public static void main(String[] args) {
 
         int num1 = 10;
